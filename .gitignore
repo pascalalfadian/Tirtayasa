@@ -1,0 +1,13 @@
+docker/
+/httpdocs/application/config/credentials.php
+/httpdocs/application/config/database-prod.php
+/httpdocs/application/config/database.php
+/httpdocs/application/logs/*.php
+Thumbs.db
+/httpdocs/application/logs/*.gz
+/httpdocs/application/cache/*
+/httpdocs/application/config/credentials-prod.php
+/httpdocs/bukitjarian/log/error.log
+/nbproject/private/
+.DS_Store
+.vscode
